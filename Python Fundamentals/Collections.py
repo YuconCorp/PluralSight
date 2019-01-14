@@ -1,0 +1,1 @@
+''.join (['high', 'way', 'man'])
